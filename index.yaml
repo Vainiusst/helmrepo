@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-09T08:37:47.220438575Z"
+    description: A Helm chart for Kubernetes
+    digest: 2e2948e12a22a23c8841af184f976f34d9026765a11d2187e5a269de973b93fc
+    name: firstchart
+    type: application
+    urls:
+    - https://vainiusst.github.io/helmrepo/firstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-09T08:37:47.219253011Z"
